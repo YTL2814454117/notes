@@ -2,8 +2,8 @@
  * @Author: 睦疏 
  * @Date: 2022-08-28 09:12:37
  * @LastEditors: 睦疏
- * @LastEditTime: 2022-09-05 15:37:57
- * @FilePath: \undefinedd:\notes\SW学习\SW.md
+ * @LastEditTime: 2023-04-11 17:16:41
+ * @FilePath: \notes-1\SW学习\SW.md
  * @Description: 
  * 
  * Copyright (c) 2022 by YTL2814454117 2814454117@qq.com, All Rights Reserved. 
@@ -82,4 +82,4 @@ enter 可以预览阵列效果
 # 特征父子关系与编辑草图平面
 # ctrl + 鼠标 可快捷拖动零件到装配体
 # 配合功能的实现
- 配合对齐切换对齐方向 
+ 配合对齐切换对齐方向  //来点测试
